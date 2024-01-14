@@ -1,21 +1,25 @@
 # Netflix-2023-Show-Report
 
-Introduction
+**Introduction**
+
 In the ever-advancing landscape of technology, the film industry has experienced a significant surge in development, resulting in a doubling of the number of movies and shows released annually. Keeping abreast of these continuous improvements and understanding the leading countries and predominant genres in this field can be challenging. However, this challenge is now a thing of the past, thanks to the comprehensive insights provided by the 2023 version of the Extended Netflix Show Views dataset. Developed to enrich your understanding of this dynamic field, the dataset not only expands your knowledge but also reaffirms existing truths.
 
-Data Preparation:
+**Data Preparation:**
+
 The inspiration for this project struck when I came across a video article mentioning Netflix's release of viewership data for the year. Intrigued, I promptly visited the Netflix website and downloaded the dataset.
 
  ![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/e7323abf-f3b3-4f89-a692-9f2c0bb5865c)
 
 
-Data Processing:
+**Data Processing:**
+
 Eagerly delving into the data analysis, I quickly realized that the task at hand was more challenging than anticipated. While the dataset was excellent, I sensed a need for additional elements to breathe life into it. Returning to the drawing board, I conceptualized and implemented the insertion of new columns, including GENRE, CATEGORY, and COUNTRY PRODUCED.
 
 ![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/c3aa95d2-c1dd-4093-9835-9fc62cc9202c)
 
  
-Data Cleaning:
+**Data Cleaning:**
+
 As the dataset underwent evolution, two crucial goals were identified to ensure its completeness:
 1.	The original Netflix dataset comprised 17,000 rows, and upon validating its integrity, I discovered a concerning issue with the 'year release' column, containing 10,000 missing values. To address this challenge and meet project deadlines, I took the following steps:
  
@@ -27,7 +31,8 @@ As the dataset underwent evolution, two crucial goals were identified to ensure 
    
 2. The second goal involved handling missing values in the newly created columns, which was successfully accomplished with the assistance of IMDB and ROTTENTOMATOES.
 
-Data Analysis and Investment Insights:
+**Data Analysis and Investment Insights:**
+
 This project is meticulously designed to offer indispensable insights for investors navigating the dynamic landscape of the entertainment sector. It addresses pivotal questions that are paramount for strategic decision-making in the realm of entertainment investments. The key inquiries encompass:
 1. Choosing Between TV Shows and Movies:
    - Uncover the comparative financial viability of financing TV shows versus movies. Gain clarity on the more lucrative investment avenue.
