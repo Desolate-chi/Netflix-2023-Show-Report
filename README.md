@@ -5,16 +5,22 @@ In the ever-advancing landscape of technology, the film industry has experienced
 
 Data Preparation:
 The inspiration for this project struck when I came across a video article mentioning Netflix's release of viewership data for the year. Intrigued, I promptly visited the Netflix website and downloaded the dataset.
- 
+
+ ![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/e7323abf-f3b3-4f89-a692-9f2c0bb5865c)
+
 
 Data Processing:
 Eagerly delving into the data analysis, I quickly realized that the task at hand was more challenging than anticipated. While the dataset was excellent, I sensed a need for additional elements to breathe life into it. Returning to the drawing board, I conceptualized and implemented the insertion of new columns, including GENRE, CATEGORY, and COUNTRY PRODUCED.
+
+![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/c3aa95d2-c1dd-4093-9835-9fc62cc9202c)
 
  
 Data Cleaning:
 As the dataset underwent evolution, two crucial goals were identified to ensure its completeness:
 1.	The original Netflix dataset comprised 17,000 rows, and upon validating its integrity, I discovered a concerning issue with the 'year release' column, containing 10,000 missing values. To address this challenge and meet project deadlines, I took the following steps:
  
+
+![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/bbed5d35-3bb5-4131-8395-f9e66883a95d)
 
    - Reduced the dataset to its top 10% for analysis.
    - Filled in missing values using resources from websites such as WHAT’S ON NETFLIX.COM and NEWONNETFLIX.COM.
@@ -34,5 +40,7 @@ This project is meticulously designed to offer indispensable insights for invest
 These critical inquiries serve as the foundation for informed decision-making in the entertainment sector. Through comprehensive data visualizations derived from thorough dataset analysis, this project illuminates the path for investors seeking strategic and lucrative opportunities in the ever-evolving world of entertainment.
 #netflix #datavisualization #netflixdata
 
+
+![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/39c6d434-51c6-4de1-9f64-cda18cb488ac)
 
  
