@@ -8,7 +8,7 @@ In the ever-advancing landscape of technology, the film industry has experienced
 
 The inspiration for this project struck when I came across a video article mentioning Netflix's release of viewership data for the year. Intrigued, I promptly visited the Netflix website and downloaded the dataset.
 
- ![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/e7323abf-f3b3-4f89-a692-9f2c0bb5865c)
+ [image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/e7323abf-f3b3-4f89-a692-9f2c0bb5865c)
 
 
 **Data Processing:**
