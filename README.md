@@ -46,6 +46,6 @@ These critical inquiries serve as the foundation for informed decision-making in
 #netflix #datavisualization #netflixdata
 
 
-![image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/39c6d434-51c6-4de1-9f64-cda18cb488ac)
+[image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/39c6d434-51c6-4de1-9f64-cda18cb488ac)
 
  
