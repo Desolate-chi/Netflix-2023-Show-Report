@@ -15,16 +15,12 @@ The inspiration for this project struck when I came across a video article menti
 
 Eagerly delving into the data analysis, I quickly realized that the task at hand was more challenging than anticipated. While the dataset was excellent, I sensed a need for additional elements to breathe life into it. Returning to the drawing board, I conceptualized and implemented the insertion of new columns, including GENRE, CATEGORY, and COUNTRY PRODUCED.
 
-[image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/c3aa95d2-c1dd-4093-9835-9fc62cc9202c)
-
  
 **Data Cleaning:**
 
 As the dataset underwent evolution, two crucial goals were identified to ensure its completeness:
 1.	The original Netflix dataset comprised 17,000 rows, and upon validating its integrity, I discovered a concerning issue with the 'year release' column, containing 10,000 missing values. To address this challenge and meet project deadlines, I took the following steps:
  
-
-[image](https://github.com/Desolate-chi/Netflix-2023-Show-Report/assets/105279126/bbed5d35-3bb5-4131-8395-f9e66883a95d)
 
    - Reduced the dataset to its top 10% for analysis.
    - Filled in missing values using resources from websites such as WHAT’S ON NETFLIX.COM and NEWONNETFLIX.COM.
